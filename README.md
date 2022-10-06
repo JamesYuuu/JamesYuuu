@@ -1,5 +1,5 @@
 ### Hi there 👋
-### For more infomation , check my personal website [JamesYu's Hut](https://jamesyuuu.me)
+### For more infomation , check my personal website! ✨ [JamesYu's Hut](https://jamesyuuu.me)
 
 <!--
 **JamesYuuu/JamesYuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
